@@ -1,29 +1,11 @@
 ## Minimal [(Free version)](https://minimal-kit-react.vercel.app/)
 
-![license](https://img.shields.io/badge/license-MIT-blue.svg)
+![license](https://mwt.org.np/wp-content/uploads/2022/08/cropped-MWT-Logo_Primary-Logo-1-200x102.png)
 
-> Free React Admin Dashboard made with Material-UI components and React.
+> MWT Donation Dashboard and donation page
 
 ![preview](public/assets/preview.jpg)
 
-| [Minimal Free](https://minimal-kit-react.vercel.app/) | [Minimal](https://material-ui.com/store/items/minimal-dashboard/) |
-| ----------------------------------------------------- | :---------------------------------------------------------------- |
-| **6** Demo pages                                      | **50+** demo pages                                                |
-| -                                                     | ✓ Multi-language                                                  |
-| -                                                     | ✓ Dark/Light Mode 🌓                                              |
-| -                                                     | ✓ [More components](https://minimals.cc/components)               |
-| -                                                     | ✓ Next.js version                                                 |
-| -                                                     | ✓ TypeScript version                                              |
-| -                                                     | ✓ Design files (Figma & Sketch)                                   |
-
-## Page demo
-
-- [Dashboard](https://minimal-kit-react.vercel.app/dashboard/app)
-- [Users](https://minimal-kit-react.vercel.app/dashboard/user)
-- [Product](https://minimal-kit-react.vercel.app/dashboard/products)
-- [Blog](https://minimal-kit-react.vercel.app/dashboard/blog)
-- [Login](https://minimal-kit-react.vercel.app/login)
-- [Not Found](https://minimal-kit-react.vercel.app/404)
 
 ## Getting started
 
@@ -33,8 +15,8 @@
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/minimal-ui-kit/minimal.free/blob/main/LICENSE.md) for more information.
+Distributed under the MWT License. 
 
 ## Contact us
 
-Email Us: support@minimals.cc
+Email Us: info@mwt.org.np

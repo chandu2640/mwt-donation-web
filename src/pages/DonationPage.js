@@ -41,6 +41,7 @@ const TABLE_HEAD = [
   { id: 'number', label: 'Number', alignRight: false },
   { id: 'organization', label: 'Organization', alignRight: false },
   { id: 'amount', label: 'Amount', alignRight: false },
+  { id: 'suggestion', label: 'Suggestion', alignRight: false },
   { id: 'status', label: 'Status', alignRight: false },
   { id: 'action', label: 'Action', alignRight: false },
 ];
@@ -169,7 +170,7 @@ export default function DonationPage() {
                 />
                 <TableBody>
                 {donationData.map((donation) => {
-                    const { id, name, email, address, number, avatarUrl, organization, amount, status } = donation;
+                    const { id, name, email, address, number, organization, amount, status, suggestion } = donation;
                     
 
                     return (
@@ -189,6 +190,7 @@ export default function DonationPage() {
                         <TableCell align="left">{number}</TableCell>
                         <TableCell align="left">{organization}</TableCell>
                         <TableCell align="left">{amount}</TableCell>
+                        <TableCell align="left">{suggestion}</TableCell>
 
                         <TableCell align="left">
                           <Label color={(status === 'failed' && 'error') || 'success'}>{sentenceCase(status)}</Label>

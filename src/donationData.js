@@ -6,6 +6,7 @@ const donationData = [
         address: "Janakpurdham",
         number: "9817629229",
         organization: "Incredible Mithila",
+        suggestion: "Do the good work",
         amount: 5000,
         status: "success"
     },
@@ -16,6 +17,7 @@ const donationData = [
         address: "Janakpurdham",
         number: "9815892617",
         organization: "Incredible Mithila",
+        suggestion: "Do the good work",
         amount: 5000,
         status: "success"
     },
@@ -26,6 +28,7 @@ const donationData = [
         address: "Janakpurdham",
         number: "9815892617",
         organization: "Incredible Mithila",
+        suggestion: "Do the good work",
         amount: 5000,
         status: "failed"
     },
@@ -36,6 +39,7 @@ const donationData = [
         address: "Janakpurdham",
         number: "9815892617",
         organization: "Incredible Mithila",
+        suggestion: "Do the good work",
         amount: 5000,
         status: "success"
     },
@@ -46,6 +50,7 @@ const donationData = [
         address: "Janakpurdham",
         number: "9815892617",
         organization: "Incredible Mithila",
+        suggestion: "Do the good work",
         amount: 5000,
         status: "failed"
     },
@@ -56,6 +61,7 @@ const donationData = [
         address: "Janakpurdham",
         number: "9815892617",
         organization: "Incredible Mithila",
+        suggestion: "Do the good work",
         amount: 5000,
         status: "failed"
     },
@@ -66,6 +72,7 @@ const donationData = [
         address: "Janakpurdham",
         number: "9815892617",
         organization: "Incredible Mithila",
+        suggestion: "Do the good work",
         amount: 5000,
         status: "failed"
     },
@@ -76,6 +83,7 @@ const donationData = [
         address: "Janakpurdham",
         number: "9815892617",
         organization: "Incredible Mithila",
+        suggestion: "Do the good work",
         amount: 5000,
         status: "failed"
     },
